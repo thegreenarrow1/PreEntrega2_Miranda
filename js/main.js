@@ -1,9 +1,6 @@
 let alumnos = [
 {
-nombre: "Pepito" , apellido: "Pene" , dni:"11.111.111" , id:1 
-},
-{
-nombre: "Pepito" , apellido: "Pene" , dni:"11.111.111" , id:2
+nombre: "Juan" , apellido: "Rodriguez" , dni:"13.965.128" , id:1 
 }];
 
 let tablebody = document.getElementById("pbody");
